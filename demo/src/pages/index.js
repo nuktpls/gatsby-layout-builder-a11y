@@ -16,10 +16,6 @@ const IndexPage = props => (
           to: '/#site-content',
           label: 'Ir para o conteúdo',
         },
-        footer: {
-          to: '/#site-footer',
-          label: 'Ir para informações de rodapé',
-        },
       }}
     />
     oi
