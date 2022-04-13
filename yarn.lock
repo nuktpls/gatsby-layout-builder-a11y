@@ -7138,10 +7138,10 @@ gatsby-plugin-page-creator@^4.12.1:
     globby "^11.1.0"
     lodash "^4.17.21"
 
-gatsby-plugin-sass@^5.11.1:
-  version "5.12.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sass/-/gatsby-plugin-sass-5.12.0.tgz#5ddc069d2f9562d762c3052f4b65cd62417ddc40"
-  integrity sha512-gTL+7vnGs1+SlEo3PSEh/39ex1Ki0lNBS3Ik5Svj6iZVTX0Dn+AjSpaJwKwLTzOJNrq3UePijhMNVWNBA/OTDQ==
+gatsby-plugin-sass@^5.12.1:
+  version "5.12.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sass/-/gatsby-plugin-sass-5.12.1.tgz#c91cf10a29e0a849680f7be008e1f0122f903542"
+  integrity sha512-2wqqgGUDvXvmVra2b9faAlzzIZuxuUGmSRpRLQjLRZDyfE3OQ+60+N+36L3vlK1roGqB33O+lfV1fBQMe6LD8Q==
   dependencies:
     "@babel/runtime" "^7.15.4"
     resolve-url-loader "^3.1.4"
