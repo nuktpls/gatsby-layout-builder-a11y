@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-layout-builder-workspace",
-  "version": "0.7.4",
+  "name": "gatsby-layout-builder-a11y-workspace",
+  "version": "0.1.0",
   "workspaces": [
     "demo",
-    "gatsby-layout-builder"
+    "gatsby-layout-builder-a11y"
   ],
   "private": true,
   "description": "Gatsby Layout Builder - SEO.",
@@ -13,22 +13,22 @@
     "gatsby-plugin",
     "gatsby-layout",
     "gatsby-builder",
-    "gatsby-layout-builder",
-    "gatsby-layout-builder",
+    "gatsby-layout-builder-a11y",
+    "gatsby-layout-builder-a11y-shortcuts",
     "layout-builder",
     "seo",
     "builder"
   ],
   "scripts": {
     "test": "echo \"No test specified\"",
-    "build": "npm run build -w gatsby-layout-builder",
+    "build": "npm run build -w gatsby-layout-builder-a11y",
     "clean": "npm run clean -w demo",
     "develop": "npm run develop -w demo",
     "version": "./build-docs && git add docs"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nuktpls/gatsby-layout-builder.git"
+    "url": "git+https://github.com/nuktpls/gatsby-layout-builder-a11y.git"
   },
   "license": "MIT",
   "publishConfig": {
@@ -44,6 +44,6 @@
     "identity-obj-proxy": "^3.0.0"
   },
   "bugs": {
-    "url": "https://github.com/nuktpls/gatsby-layout-builder/issues"
+    "url": "https://github.com/nuktpls/gatsby-layout-builder-a11y/issues"
   }
 }
